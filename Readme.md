@@ -1,10 +1,10 @@
 # Gerenciador de Atendimento e Recadastramento de Funcionários
 
-Este projeto foi desenvolvido em Python para gerenciar o atendimento e o controle de funcionários a serem recadastrados pela gestão da cidade e municípios de São Paulo.
+Este projeto foi desenvolvido em Python para gerenciar o atendimento e o controle de funcionários a serem recadastrados pela gestão da cidade e municípios de Monte Alegre - RN.
 
 ## Funcionalidades
 
-O sistema oferece uma interface simples para a gestão dos recadastramentos de funcionários, permitindo que a equipe de administração da cidade e municípios de São Paulo realize o processo de forma eficiente e organizada.
+O sistema oferece uma interface simples para a gestão dos recadastramentos de funcionários, permitindo que a equipe de administração da cidade e municípios de Monte Alegre - RN realize o processo de forma eficiente e organizada.
 
 ## Requisitos
 
@@ -33,7 +33,7 @@ Para rodar este projeto, você precisa ter o Python 3.7+ instalado. Além disso,
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/HetrisleyGomes/Fichas.git
 cd nome-do-repositorio
 ```
 
@@ -92,53 +92,4 @@ Este projeto está licenciado sob a MIT License.
 
 ```
 Este modelo cobre as informações básicas para que os desenvolvedores e usuários saibam como instalar e executar o seu projeto. Adapte conforme necessário.
-```
-
-
-# Projeto de requisições de atendimento
-Versão do Python 3.12.9
-
-## Sobre o projeto
-Este projeto Python foi desenvolvido para gerenciar o atendimento e controle de funcionários a serem recadastrados pela gestão da cidade e municipios de Monte Alegre.
-
-Sistema por: @Hetrisley_Gomes.
-
-## Estrtutura de Pastas
-```
-/static                 # Componentes estáticos
-/templates              # Documentos HTML
-run.py                  # Inicia o projeto, e controla suas requisições e rotas
-```
-
-## Tecnologias Usadas
-- **venv**: Uma ferramenta integrada no Python para criar ambientes virtuais isolados, permitindo a instalação de dependências específicas do projeto sem interferir no sistema global.
-
-- **Flask**: Um micro framework para Python que facilita o desenvolvimento de aplicações web rápidas e escaláveis com simplicidade e flexibilidade.
-
-- **jQuery**: Uma biblioteca JavaScript que simplifica a manipulação do DOM, o tratamento de eventos e as chamadas Ajax, melhorando a compatibilidade entre navegadores.
-
-- **Ajax**: Uma técnica para atualizar partes de uma página web de forma assíncrona sem recarregar a página inteira, proporcionando uma experiência de usuário mais dinâmica e interativa.
-
-- **Bootstrap**: Um framework front-end que fornece um conjunto de ferramentas e componentes responsivos para criar layouts e design web consistentes e modernos
-
-## Rodando Localmente
-Clone do repositório:
-```bash
-git clone 
-```
-
-
-Instalando dependências:
-```bash
-pip install -r requirements.txt
-```
-
-Inicializando o ambiente virtual:
-```bash
-. .\.venv\Scripts\activate
-```
-
-Inicializando o servidor:
-```bash
-py run.py
 ```
